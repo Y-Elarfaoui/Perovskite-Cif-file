@@ -1,0 +1,31 @@
+data_global
+_cell_length_a 6.3
+_cell_length_b 6.3
+_cell_length_c 6.3
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_symmetry_equiv_pos_as_xyz
+  'x,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn      1.005509   0.964970   1.005752
+I       0.501622   0.986634   1.005507
+I       1.004277   0.945490   0.501573
+I       1.006338   0.461490   1.006175
+H       0.497509   0.361418   0.299685
+N       0.494649   0.522425   0.318387
+C       0.501670   0.618080   0.503102
+N       0.512421   0.522213   0.687514
+H       0.517420   0.361209   0.705437
+H       0.497023   0.792440   0.503026
+H       0.485471   0.617343   0.187484
+H       0.518790   0.616426   0.819102
+
+
+
